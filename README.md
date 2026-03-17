@@ -1,6 +1,6 @@
 # MoneyMap API
 
-MoneyMap API is a minimalist personal expense tracker backend built with ASP.NET Core 8 for a clean GitHub showcase. It keeps the architecture simple, uses JWT auth, stores data in SQL Server through EF Core, and ensures every authenticated user only sees their own categories, transactions, and reports.
+MoneyMap API is a minimalist personal expense tracker backend built with ASP.NET Core 8. It keeps the architecture simple, uses JWT auth, stores data in SQL Server through EF Core, and ensures every authenticated user only sees their own categories, transactions, and reports.
 
 ## Stack
 
